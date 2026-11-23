@@ -2,9 +2,6 @@
 
 A premium motorsport-inspired storefront for performance and racing parts. This is a frontend prototype built as a portfolio project.
 
-**Live demo:** https://claude.ai/artifact/LudReCGLcDzaeSva1eTpbS
-**Status:** Frontend prototype. Products are demo data. No real payments are processed.
-
 ## Features
 - Responsive layout for desktop, tablet and mobile
 - Homepage hero, featured collections (Track Day, Street Performance, Drift) and promo banner
