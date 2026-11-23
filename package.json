@@ -1,0 +1,17 @@
+{
+  "name": "apex-racing-parts",
+  "version": "2.0.0",
+  "description": "Premium motorsport-inspired performance parts storefront with cart, checkout and admin dashboard.",
+  "private": true,
+  "license": "UNLICENSED",
+  "scripts": {
+    "test": "node tests/run-all.js",
+    "serve": "npx --yes serve -l 3000 ."
+  },
+  "devDependencies": {
+    "jsdom": "^24.1.0"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
